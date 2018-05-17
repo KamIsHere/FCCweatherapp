@@ -1,0 +1,19 @@
+.header {
+  color: black;
+  text-align: center;
+  font-size: 3em;
+}
+
+.container {
+  background-color: rgb(200, 235, 235);
+  width: 40em;
+  height: 20em;
+  margin: auto;
+  border-radius: 9px;
+  margin-top: 10em;
+  color: gray;
+}
+
+.userInfo {
+  font-size: 1.5em;
+}
